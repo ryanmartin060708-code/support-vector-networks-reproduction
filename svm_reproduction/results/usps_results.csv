@@ -1,0 +1,3 @@
+degree,train_accuracy,test_accuracy,raw_error_percent,support_vectors_mean,support_vectors_total,original_raw_error_percent,original_support_vectors_mean,feature_space_dimension
+1,1.0,0.8,19.999999999999996,23.2,232,12.0,200,256
+2,1.0,0.815,18.500000000000007,28.8,288,4.7,127,33152

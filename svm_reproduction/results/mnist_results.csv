@@ -1,0 +1,15 @@
+metric,value
+dataset,MNIST used as NIST substitute
+degree,4
+C,10.0
+gamma,0.01
+train_size,200
+test_size,200
+train_accuracy,1.0
+test_accuracy,0.82
+test_precision_macro,0.839810576787365
+test_recall_macro,0.82
+test_f1_macro,0.8194598360178565
+support_vectors_by_class,"[51, 50, 77, 61, 73, 80, 73, 78, 71, 71]"
+support_vectors_total,685
+support_vectors_mean,68.5

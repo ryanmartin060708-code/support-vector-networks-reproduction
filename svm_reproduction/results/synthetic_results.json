@@ -1,0 +1,30 @@
+{
+  "ellipse": {
+    "dual_objective": 10.149764351232747,
+    "kkt_max": 0.0010897297514649296,
+    "support_vectors": 6.0,
+    "training_accuracy": 1.0,
+    "training_error_percent": 0.0
+  },
+  "overlap": {
+    "dual_objective": 215.34376986808982,
+    "kkt_max": 0.0005467839523949358,
+    "support_vectors": 15.0,
+    "training_accuracy": 0.9333333333333333,
+    "training_error_percent": 6.666666666666665
+  },
+  "quadratic": {
+    "dual_objective": 12.311492989159014,
+    "kkt_max": 0.0010948339867247192,
+    "support_vectors": 6.0,
+    "training_accuracy": 1.0,
+    "training_error_percent": 0.0
+  },
+  "xor": {
+    "dual_objective": 455.5122383371592,
+    "kkt_max": 0.000806308551518975,
+    "support_vectors": 25.0,
+    "training_accuracy": 0.8666666666666667,
+    "training_error_percent": 13.33333333333333
+  }
+}

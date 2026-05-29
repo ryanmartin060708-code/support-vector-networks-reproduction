@@ -1,0 +1,24 @@
+[
+  {
+    "degree": 1,
+    "feature_space_dimension": 256,
+    "original_raw_error_percent": 12.0,
+    "original_support_vectors_mean": 200,
+    "raw_error_percent": 19.999999999999996,
+    "support_vectors_mean": 23.2,
+    "support_vectors_total": 232,
+    "test_accuracy": 0.8,
+    "train_accuracy": 1.0
+  },
+  {
+    "degree": 2,
+    "feature_space_dimension": 33152,
+    "original_raw_error_percent": 4.7,
+    "original_support_vectors_mean": 127,
+    "raw_error_percent": 18.500000000000007,
+    "support_vectors_mean": 28.8,
+    "support_vectors_total": 288,
+    "test_accuracy": 0.815,
+    "train_accuracy": 1.0
+  }
+]
