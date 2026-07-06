@@ -33,6 +33,7 @@ in `../reproduction_report.md`.
 ## Setup
 
 ```bash
+git clone https://github.com/ryan.martin060708-code/support-vector-networks-reproduction.git
 cd svm_reproduction
 python -m venv .venv
 .venv/Scripts/activate
