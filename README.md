@@ -34,7 +34,7 @@ in `../reproduction_report.md`.
 
 ```bash
 git clone https://github.com/ryanmartin060708-code/support-vector-networks-reproduction.git
-cd svm_reproduction
+cd support-vector-networks-reproduction/svm_reproduction
 python -m venv .venv
 .venv/Scripts/activate
 pip install -r requirements.txt
